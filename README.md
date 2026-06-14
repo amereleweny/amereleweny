@@ -6,7 +6,7 @@
 
 I'm a data analyst with around 3 years of experience across **fintech, e-commerce, and telecom**, currently working as a Senior Performance Management Analyst at **MNT-Halan**, one of Egypt's leading fintech super-apps. I turn raw operational data into dashboards, data models, and automated reports that help business teams make faster, evidence-based decisions.
 
-Currently open to **Data Analyst opportunities in MINA**.
+Currently open to **Data Analyst opportunities in Saudi Arabia**.
 
 ---
 
@@ -28,8 +28,9 @@ Currently open to **Data Analyst opportunities in MINA**.
 
 ## Featured Projects
 
-### [Employee Attrition Analysis — Power BI Dashboard](HR Attrition - IBM dataset.pbix)
-Built a star schema data model and 10 DAX measures on the IBM HR Analytics dataset to identify key drivers of employee attrition, with actionable recommendations for HR leadership.
+### [Employee Attrition Analysis — Power BI Dashboard](https://github.com/amereleweny/hr-attrition-analysis-powerbi)
+
+Built a star schema data model and 11 DAX measures on the IBM HR Analytics dataset to identify key drivers of employee attrition, with actionable recommendations for HR leadership.
 
 ---
 
@@ -52,6 +53,6 @@ Built a star schema data model and 10 DAX measures on the IBM HR Analytics datas
 
 ## Get in Touch
 
-- LinkedIn: https://www.linkedin.com/in/amereleweny/
-- Email: amer.eleweny@gmail.com
+- LinkedIn: <https://www.linkedin.com/in/amereleweny/>
+- Email: <amer.eleweny@gmail.com>
 - Location: Cairo, Egypt — open to relocation
