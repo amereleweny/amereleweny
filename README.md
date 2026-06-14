@@ -52,6 +52,6 @@ Built a star schema data model and 10 DAX measures on the IBM HR Analytics datas
 
 ## Get in Touch
 
-- LinkedIn: https://www.linkedin.com/in/amereleweny/ PROFESSIONAL SUMMARY
+- LinkedIn: https://www.linkedin.com/in/amereleweny/
 - Email: amer.eleweny@gmail.com
 - Location: Cairo, Egypt — open to relocation
