@@ -28,7 +28,7 @@ Currently open to **Data Analyst opportunities in MINA**.
 
 ## Featured Projects
 
-### [Employee Attrition Analysis — Power BI Dashboard](https://github.com/YOURUSERNAME/hr-attrition-analysis-powerbi)
+### [Employee Attrition Analysis — Power BI Dashboard](HR Attrition - IBM dataset.pbix)
 Built a star schema data model and 10 DAX measures on the IBM HR Analytics dataset to identify key drivers of employee attrition, with actionable recommendations for HR leadership.
 
 ---
